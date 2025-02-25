@@ -1,4 +1,4 @@
-Olá, eu sou o LHRafaelli!
+Olá, eu sou o Luiz Henrik Rodrigues Rafaelli!
 
 🤓 Atualmente estou cursando ADS; 
 
