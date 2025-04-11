@@ -2,7 +2,7 @@ Olá, eu sou o Luiz Henrik Rodrigues Rafaelli!
 
 🤓 Atualmente cursando ADS; 
 
-📚 Estudando HTML,CSS,JS,REACT e TS ;
+📚 Estudando as principais ferramentas do front-end;
 
 😊 Ele/dele;
 
