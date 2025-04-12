@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Luiz Henrik Raphaelli
+# 🧑🏻‍💻 Luiz Henrik Raphaelli
 
 **`Desenvolvedora FullStack`**
 
