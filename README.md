@@ -19,6 +19,13 @@ Me chamo Luiz Henrik Raphaelli, tenho 19 anos e sou natural do Rio Grande do Sul
             src="https://custom-icon-badges.demolab.com/github/stars/LHRafaelli?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
+     <a href="https://www.linkedin.com/in/luiz-henrik-rafaelli-432117350/">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no Linkedin" 
+            src="https://custom-icon-badges.demolab.com/Linkedin/followers/LHRafaelli?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=Linkedin&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
