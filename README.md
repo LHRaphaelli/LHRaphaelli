@@ -5,10 +5,10 @@
 Me chamo Luiz Henrik Raphaelli, tenho 19 anos e sou natural do Rio Grande do Sul. Atualmente, curso Análise e Desenvolvimento de Sistemas na Unisinos. Sou apaixonado por tecnologia e estou em constante aprendizado das ferramentas mais utilizadas no desenvolvimento web. Meu foco atual é me tornar um desenvolvedor front-end, com o objetivo de, futuramente, expandir meus conhecimentos para o back-end e assim me tornar um desenvolvedor Fullstack.
 
    <p align="left">
-      <a href="https://github.com/LHRaphaelli?tab=followers">
-         <img alt="seguidores" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/LHRaphaelli?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.comLHRaphaelli?tab=repositories&sort=stargazers">
-         <img alt="total de estrelas" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LHRaphaelli?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://github.com/LHRaphaelli?tab=Seguidores">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/LHRaphaelli?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.comLHRaphaelli?tab=repositories&sort=Estrelas">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LHRaphaelli?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
