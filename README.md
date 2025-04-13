@@ -58,7 +58,7 @@ Me chamo Luiz Henrik Raphaelli, tenho 19 anos e sou natural do Rio Grande do Sul
 <p>
   <img 
     src="https://github-readme-stats.vercel.app/api?username=LHRaphaelli&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    height="150"
+    height="200"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHRaphaelli&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
