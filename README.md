@@ -6,9 +6,9 @@ Me chamo Luiz Henrik Raphaelli, tenho 19 anos e sou natural do Rio Grande do Sul
 
    <p align="left">
       <a href="https://github.com/LHRaphaelli?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/LHRaphaelli?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="seguidores" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/LHRaphaelli?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.comLHRaphaelli?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LHRaphaelli?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="total de estrelas" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LHRaphaelli?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
