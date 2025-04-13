@@ -12,7 +12,7 @@ Me chamo Luiz Henrik Raphaelli, tenho 19 anos e sou natural do Rio Grande do Sul
             src="https://custom-icon-badges.demolab.com/github/followers/LHRaphaelli?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-     <a href="https://github.com/LHRafaelli?tab=repositories&sort=stargazers">
+     <a href="https://github.com/LHRaphaelli?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
