@@ -4,22 +4,8 @@
 
 Me chamo Luiz Henrik Raphaelli, tenho 19 anos e sou natural do Rio Grande do Sul. Atualmente, curso Análise e Desenvolvimento de Sistemas na Unisinos. Sou apaixonado por tecnologia e estou em constante aprendizado das ferramentas mais utilizadas no desenvolvimento web. Meu foco atual é me tornar um desenvolvedor front-end, com o objetivo de, futuramente, expandir meus conhecimentos para o back-end e assim me tornar um desenvolvedor Fullstack.
 
-<p align="left">
-    <a href="https://github.com/LHRaphaelli?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LHRaphaelli?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/LHRaphaelli?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/LHRaphaelli?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-</p>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrik-rafaelli-432117350/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LHRaphaelli)
 
 ---
 
