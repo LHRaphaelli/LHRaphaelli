@@ -41,7 +41,7 @@ Me chamo Luiz Henrik Raphaelli, tenho 19 anos e sou natural do Rio Grande do Sul
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.flaticon.com/free-icon/python_5968350?term=python&page=1&position=5&origin=search&related_id=5968350" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 
 <br/>
