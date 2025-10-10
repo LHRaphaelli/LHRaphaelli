@@ -13,7 +13,6 @@ Me chamo Luiz Henrik Rodrigues Raphaelli, tenho 18 anos e sou natural do Rio Gra
 
 <img 
     align="left"
-    font-size="20px"
     alt="HTML" 
     title="HTML"
     width="30px" 
