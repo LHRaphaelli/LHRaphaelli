@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Fullstack em formação`**
 
-Me chamo Luiz Henrik Rodrigues Raphaelli, tenho 18 anos e sou natural do Rio Grande do Sul. Atualmente, curso Análise e Desenvolvimento de Sistemas na Unisinos. Sou apaixonado por tecnologia e estou em constante aprendizado das ferramentas mais utilizadas no desenvolvimento web. Meu foco atual é me tornar um desenvolvedor front-end, com o objetivo de, futuramente, expandir meus conhecimentos para o back-end e assim me tornar um desenvolvedor Fullstack.
+Me chamo Luiz Henrik Rodrigues Raphaelli, tenho 18 anos e sou natural do Rio Grande do Sul. Atualmente, curso Análise e Desenvolvimento de Sistemas na Unisinos. Sou apaixonado por tecnologia e estou em constante busca por aprimorar meus conhecimentos nas ferramentas e tendências mais utilizadas no desenvolvimento web. Atualmente, meu foco é o desenvolvimento front-end, utilizando tecnologias como HTML, CSS, JavaScript e frameworks modernos, com o objetivo de criar interfaces funcionais, responsivas e intuitivas. No futuro, pretendo expandir meus conhecimentos para o desenvolvimento back-end, aprofundando-me em servidores e bancos de dados, a fim de me tornar um desenvolvedor Fullstack capaz de atuar em todas as etapas de um projeto. Estou aberto a oportunidades tanto como freelancer quanto em regime CLT, sempre em busca de novos desafios que me permitam evoluir profissionalmente e contribuir com soluções criativas e eficientes.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lhraphaelli?igsh=MWRnOWExdWQ5c2cxNQ==)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lhraphaelli)
