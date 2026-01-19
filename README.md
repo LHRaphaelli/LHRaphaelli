@@ -53,9 +53,3 @@ Me chamo Luiz Henrik Rodrigues Raphaelli, tenho 19 anos e sou natural do Rio Gra
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LHRaphaelli&show_icons=true&theme=tokyonight&locale=pt-br)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LHRaphaelli&theme=tokyonight&layout=compact&locale=pt-br)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LHRaphaelli/LHRaphaelli/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LHRaphaelli/LHRaphaelli/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LHRaphaelli/LHRaphaelli/output/pacman-contribution-graph.svg">
-</picture>
